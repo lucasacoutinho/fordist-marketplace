@@ -78,6 +78,14 @@ As you use `/retrospective` and `/publish`, more skills will appear here.
 3. Run `/publish` to add it to this marketplace
 4. Create a PR if you want to share with others
 
+## Inspiration
+
+This project is inspired by the [AI Research Engineering Skills Library](https://huggingface.co/blog/AmberLJC/ai-research-engineering-skills) concept:
+
+> "Think of `skills` as _invocable knowledge packages_—modular units that contain structured instructions, references, and resources for a specific domain."
+
+The key insight is **separating lightweight reasoning from heavy resource retrieval** - loading knowledge on-demand rather than all at once. Fordist applies this principle to development knowledge: capture what you learn, retrieve it when relevant.
+
 ## License
 
-MIT
+MIT - see [LICENSE](LICENSE)
