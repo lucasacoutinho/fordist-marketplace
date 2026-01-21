@@ -1,0 +1,7 @@
+{
+  "name": "fordist",
+  "description": "Assembly-line knowledge: patterns, gotchas, and lessons learned from building features",
+  "version": "1.0.0",
+  "author": { "name": "Lucas" },
+  "repository": "https://github.com/lucasacoutinho/fordist-marketplace"
+}

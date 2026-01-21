@@ -1,0 +1,12 @@
+{
+  "name": "fordist-marketplace",
+  "description": "Fordist - assembly-line production of reusable development knowledge",
+  "plugins": [
+    {
+      "name": "fordist",
+      "description": "Patterns, gotchas, and lessons learned",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
