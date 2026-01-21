@@ -1,6 +1,10 @@
 {
   "name": "fordist-marketplace",
   "description": "Fordist - assembly-line production of reusable development knowledge",
+  "owner": {
+    "name": "Lucas Coutinho",
+    "email": "mail@lucasacoutinho.com"
+  },
   "plugins": [
     {
       "name": "fordist",
